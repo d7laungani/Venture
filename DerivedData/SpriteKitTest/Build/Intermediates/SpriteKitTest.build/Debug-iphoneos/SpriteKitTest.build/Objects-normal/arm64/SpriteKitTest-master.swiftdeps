@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "554bc51954db9f758322344240a76391"
+build_time: [512273187, 884385000]
+inputs:
+  "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/GameViewController.swift": [512212543, 0]
+  "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/AppDelegate.swift": [512111031, 0]
+  "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/GameScene.swift": [512272940, 0]

@@ -1,0 +1,26 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SocketAnyEvent"
+provides-nominal:
+- "C19SocketIOClientSwift14SocketAnyEvent"
+provides-member:
+- ["C19SocketIOClientSwift14SocketAnyEvent", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "NSObject"
+- "String"
+- "SocketAnyEvent"
+- "NSArray"
+depends-member:
+- ["C19SocketIOClientSwift14SocketAnyEvent", "NSArray"]
+- ["C19SocketIOClientSwift14SocketAnyEvent", "String"]
+- ["C19SocketIOClientSwift14SocketAnyEvent", "deinit"]
+depends-nominal:
+- "C19SocketIOClientSwift14SocketAnyEvent"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+interface-hash: "e3e612d9a9b735984916db52607f5466"

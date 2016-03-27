@@ -1,0 +1,250 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TWButton"
+provides-nominal:
+- "C13SpriteKitTest8TWButton"
+provides-member:
+- ["C13SpriteKitTest8TWButton", ""]
+provides-dynamic-lookup:
+- "dragExit"
+- "dragOutside"
+- "dragInside"
+- "dragEnter"
+- "touchUpOutside"
+- "touchUpInside"
+- "touchDown"
+- "disabledTouchDown"
+- "drag"
+depends-top-level:
+- !private "BooleanLiteralType"
+- "TWControl"
+- "SKTexture"
+- "SKShapeNode"
+- "CGSize"
+- "String"
+- "TWButton"
+- "SKColor"
+depends-member:
+- ["PSs9AnyObject", "Definition"]
+- ["PSs9AnyObject", "disabledTouchDown"]
+- ["PSs9AnyObject", "drag"]
+- ["PSs9AnyObject", "dragEnter"]
+- ["PSs9AnyObject", "dragExit"]
+- ["PSs9AnyObject", "dragInside"]
+- ["PSs9AnyObject", "dragOutside"]
+- !private ["PSs9AnyObject", "highlighted"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "touchDown"]
+- ["PSs9AnyObject", "touchUpInside"]
+- ["PSs9AnyObject", "touchUpOutside"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "Definition"]
+- ["PSs11CVarArgType", "disabledTouchDown"]
+- ["PSs11CVarArgType", "drag"]
+- ["PSs11CVarArgType", "dragEnter"]
+- ["PSs11CVarArgType", "dragExit"]
+- ["PSs11CVarArgType", "dragInside"]
+- ["PSs11CVarArgType", "dragOutside"]
+- !private ["PSs11CVarArgType", "highlighted"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "touchDown"]
+- ["PSs11CVarArgType", "touchUpInside"]
+- ["PSs11CVarArgType", "touchUpOutside"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "Definition"]
+- ["PSs23CustomStringConvertible", "disabledTouchDown"]
+- ["PSs23CustomStringConvertible", "drag"]
+- ["PSs23CustomStringConvertible", "dragEnter"]
+- ["PSs23CustomStringConvertible", "dragExit"]
+- ["PSs23CustomStringConvertible", "dragInside"]
+- ["PSs23CustomStringConvertible", "dragOutside"]
+- !private ["PSs23CustomStringConvertible", "highlighted"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "touchDown"]
+- ["PSs23CustomStringConvertible", "touchUpInside"]
+- ["PSs23CustomStringConvertible", "touchUpOutside"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "Definition"]
+- ["PSs9Equatable", "disabledTouchDown"]
+- ["PSs9Equatable", "drag"]
+- ["PSs9Equatable", "dragEnter"]
+- ["PSs9Equatable", "dragExit"]
+- ["PSs9Equatable", "dragInside"]
+- ["PSs9Equatable", "dragOutside"]
+- !private ["PSs9Equatable", "highlighted"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "touchDown"]
+- ["PSs9Equatable", "touchUpInside"]
+- ["PSs9Equatable", "touchUpOutside"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "Definition"]
+- ["PSs8Hashable", "disabledTouchDown"]
+- ["PSs8Hashable", "drag"]
+- ["PSs8Hashable", "dragEnter"]
+- ["PSs8Hashable", "dragExit"]
+- ["PSs8Hashable", "dragInside"]
+- ["PSs8Hashable", "dragOutside"]
+- !private ["PSs8Hashable", "highlighted"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "touchDown"]
+- ["PSs8Hashable", "touchUpInside"]
+- ["PSs8Hashable", "touchUpOutside"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "Definition"]
+- ["PSo8NSCoding", "disabledTouchDown"]
+- ["PSo8NSCoding", "drag"]
+- ["PSo8NSCoding", "dragEnter"]
+- ["PSo8NSCoding", "dragExit"]
+- ["PSo8NSCoding", "dragInside"]
+- ["PSo8NSCoding", "dragOutside"]
+- !private ["PSo8NSCoding", "highlighted"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "touchDown"]
+- ["PSo8NSCoding", "touchUpInside"]
+- ["PSo8NSCoding", "touchUpOutside"]
+- ["PSo8NSCoding", ""]
+- ["PSo9NSCopying", "Definition"]
+- ["PSo9NSCopying", "disabledTouchDown"]
+- ["PSo9NSCopying", "drag"]
+- ["PSo9NSCopying", "dragEnter"]
+- ["PSo9NSCopying", "dragExit"]
+- ["PSo9NSCopying", "dragInside"]
+- ["PSo9NSCopying", "dragOutside"]
+- !private ["PSo9NSCopying", "highlighted"]
+- ["PSo9NSCopying", "init"]
+- ["PSo9NSCopying", "touchDown"]
+- ["PSo9NSCopying", "touchUpInside"]
+- ["PSo9NSCopying", "touchUpOutside"]
+- ["PSo9NSCopying", ""]
+- ["CSo8NSObject", "CGSize"]
+- ["CSo8NSObject", "Definition"]
+- ["CSo8NSObject", "SKColor"]
+- ["CSo8NSObject", "SKShapeNode"]
+- ["CSo8NSObject", "SKTexture"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "disabledTouchDown"]
+- ["CSo8NSObject", "drag"]
+- ["CSo8NSObject", "dragEnter"]
+- ["CSo8NSObject", "dragExit"]
+- ["CSo8NSObject", "dragInside"]
+- ["CSo8NSObject", "dragOutside"]
+- !private ["CSo8NSObject", "highlighted"]
+- ["CSo8NSObject", "touchDown"]
+- ["CSo8NSObject", "touchUpInside"]
+- ["CSo8NSObject", "touchUpOutside"]
+- ["PSo16NSObjectProtocol", "Definition"]
+- ["PSo16NSObjectProtocol", "disabledTouchDown"]
+- ["PSo16NSObjectProtocol", "drag"]
+- ["PSo16NSObjectProtocol", "dragEnter"]
+- ["PSo16NSObjectProtocol", "dragExit"]
+- ["PSo16NSObjectProtocol", "dragInside"]
+- ["PSo16NSObjectProtocol", "dragOutside"]
+- !private ["PSo16NSObjectProtocol", "highlighted"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "touchDown"]
+- ["PSo16NSObjectProtocol", "touchUpInside"]
+- ["PSo16NSObjectProtocol", "touchUpOutside"]
+- ["PSo16NSObjectProtocol", ""]
+- ["CSo6SKNode", "CGSize"]
+- ["CSo6SKNode", "Definition"]
+- ["CSo6SKNode", "SKColor"]
+- ["CSo6SKNode", "SKShapeNode"]
+- ["CSo6SKNode", "SKTexture"]
+- ["CSo6SKNode", "String"]
+- ["CSo6SKNode", "disabledTouchDown"]
+- ["CSo6SKNode", "drag"]
+- ["CSo6SKNode", "dragEnter"]
+- ["CSo6SKNode", "dragExit"]
+- ["CSo6SKNode", "dragInside"]
+- ["CSo6SKNode", "dragOutside"]
+- !private ["CSo6SKNode", "highlighted"]
+- ["CSo6SKNode", "touchDown"]
+- ["CSo6SKNode", "touchUpInside"]
+- ["CSo6SKNode", "touchUpOutside"]
+- ["CSo11SKShapeNode", "Definition"]
+- ["C13SpriteKitTest8TWButton", "CGSize"]
+- ["C13SpriteKitTest8TWButton", "SKColor"]
+- ["C13SpriteKitTest8TWButton", "SKShapeNode"]
+- ["C13SpriteKitTest8TWButton", "SKTexture"]
+- ["C13SpriteKitTest8TWButton", "String"]
+- ["C13SpriteKitTest8TWButton", "deinit"]
+- ["C13SpriteKitTest8TWButton", "disabledTouchDown"]
+- ["C13SpriteKitTest8TWButton", "drag"]
+- ["C13SpriteKitTest8TWButton", "dragEnter"]
+- ["C13SpriteKitTest8TWButton", "dragExit"]
+- ["C13SpriteKitTest8TWButton", "dragInside"]
+- ["C13SpriteKitTest8TWButton", "dragOutside"]
+- !private ["C13SpriteKitTest8TWButton", "highlighted"]
+- ["C13SpriteKitTest8TWButton", "init"]
+- ["C13SpriteKitTest8TWButton", "touchDown"]
+- ["C13SpriteKitTest8TWButton", "touchUpInside"]
+- ["C13SpriteKitTest8TWButton", "touchUpOutside"]
+- ["C13SpriteKitTest9TWControl", "CGSize"]
+- ["C13SpriteKitTest9TWControl", "SKColor"]
+- ["C13SpriteKitTest9TWControl", "SKShapeNode"]
+- ["C13SpriteKitTest9TWControl", "SKTexture"]
+- ["C13SpriteKitTest9TWControl", "String"]
+- ["C13SpriteKitTest9TWControl", "disabledTouchDown"]
+- ["C13SpriteKitTest9TWControl", "drag"]
+- ["C13SpriteKitTest9TWControl", "dragEnter"]
+- ["C13SpriteKitTest9TWControl", "dragExit"]
+- ["C13SpriteKitTest9TWControl", "dragInside"]
+- ["C13SpriteKitTest9TWControl", "dragOutside"]
+- !private ["C13SpriteKitTest9TWControl", "highlighted"]
+- ["C13SpriteKitTest9TWControl", "init"]
+- ["C13SpriteKitTest9TWControl", "touchDown"]
+- ["C13SpriteKitTest9TWControl", "touchUpInside"]
+- ["C13SpriteKitTest9TWControl", "touchUpOutside"]
+- ["C13SpriteKitTest9TWControl", ""]
+- ["CSo11UIResponder", "CGSize"]
+- ["CSo11UIResponder", "Definition"]
+- ["CSo11UIResponder", "SKColor"]
+- ["CSo11UIResponder", "SKShapeNode"]
+- ["CSo11UIResponder", "SKTexture"]
+- ["CSo11UIResponder", "String"]
+- ["CSo11UIResponder", "disabledTouchDown"]
+- ["CSo11UIResponder", "drag"]
+- ["CSo11UIResponder", "dragEnter"]
+- ["CSo11UIResponder", "dragExit"]
+- ["CSo11UIResponder", "dragInside"]
+- ["CSo11UIResponder", "dragOutside"]
+- !private ["CSo11UIResponder", "highlighted"]
+- ["CSo11UIResponder", "touchDown"]
+- ["CSo11UIResponder", "touchUpInside"]
+- ["CSo11UIResponder", "touchUpOutside"]
+- ["PSs12_Reflectable", "Definition"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "CSo6SKNode"
+- "CSo11SKShapeNode"
+- "C13SpriteKitTest8TWButton"
+- "C13SpriteKitTest9TWControl"
+- "CSo11UIResponder"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/SpriteKitTest-Bridging-Header.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SpriteKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphonesimulator/SocketIOClientSwift.framework/Modules/SocketIOClientSwift.swiftmodule/x86_64.swiftmodule"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphonesimulator/SocketIOClientSwift.framework/Headers/SocketIOClientSwift-Swift.h"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphonesimulator/SocketIOClientSwift.framework/Headers/Socket.IO-Client-Swift-umbrella.h"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphonesimulator/SocketIOClientSwift.framework/Modules/module.modulemap"
+interface-hash: "a5fbb049b92961ac12858d5237e95322"

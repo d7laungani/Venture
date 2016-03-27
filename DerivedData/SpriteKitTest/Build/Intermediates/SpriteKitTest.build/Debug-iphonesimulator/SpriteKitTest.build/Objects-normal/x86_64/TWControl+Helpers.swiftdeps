@@ -1,0 +1,156 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["C13SpriteKitTest9TWControl", ""]
+- ["C13SpriteKitTest9TWControl", "playSound"]
+provides-dynamic-lookup:
+- "playSound"
+depends-top-level:
+- "TWControl"
+- !private "BooleanLiteralType"
+- !private "??"
+- !private "SKAction"
+- "String"
+depends-member:
+- !private ["PSs9AnyObject", "SKAction"]
+- !private ["PSs9AnyObject", "TWControl"]
+- !private ["PSs9AnyObject", "defaultSoundEffectsEnabled"]
+- ["PSs9AnyObject", "playSound"]
+- !private ["PSs9AnyObject", "playSoundFileNamed"]
+- !private ["PSs9AnyObject", "runAction"]
+- !private ["PSs9AnyObject", "soundEffectsEnabled"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["PSs25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs11BooleanType", "_getBuiltinLogicValue"]
+- !private ["PSs11CVarArgType", "SKAction"]
+- !private ["PSs11CVarArgType", "TWControl"]
+- !private ["PSs11CVarArgType", "defaultSoundEffectsEnabled"]
+- ["PSs11CVarArgType", "playSound"]
+- !private ["PSs11CVarArgType", "playSoundFileNamed"]
+- !private ["PSs11CVarArgType", "runAction"]
+- !private ["PSs11CVarArgType", "soundEffectsEnabled"]
+- ["PSs28CustomDebugStringConvertible", "Some"]
+- !private ["PSs23CustomStringConvertible", "SKAction"]
+- !private ["PSs23CustomStringConvertible", "TWControl"]
+- !private ["PSs23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs23CustomStringConvertible", "defaultSoundEffectsEnabled"]
+- ["PSs23CustomStringConvertible", "playSound"]
+- !private ["PSs23CustomStringConvertible", "playSoundFileNamed"]
+- !private ["PSs23CustomStringConvertible", "runAction"]
+- !private ["PSs23CustomStringConvertible", "soundEffectsEnabled"]
+- !private ["PSs9Equatable", "SKAction"]
+- !private ["PSs9Equatable", "TWControl"]
+- !private ["PSs9Equatable", "_getBuiltinLogicValue"]
+- !private ["PSs9Equatable", "defaultSoundEffectsEnabled"]
+- ["PSs9Equatable", "playSound"]
+- !private ["PSs9Equatable", "playSoundFileNamed"]
+- !private ["PSs9Equatable", "runAction"]
+- !private ["PSs9Equatable", "soundEffectsEnabled"]
+- !private ["PSs8Hashable", "SKAction"]
+- !private ["PSs8Hashable", "TWControl"]
+- !private ["PSs8Hashable", "_getBuiltinLogicValue"]
+- !private ["PSs8Hashable", "defaultSoundEffectsEnabled"]
+- ["PSs8Hashable", "playSound"]
+- !private ["PSs8Hashable", "playSoundFileNamed"]
+- !private ["PSs8Hashable", "runAction"]
+- !private ["PSs8Hashable", "soundEffectsEnabled"]
+- !private ["PSo8NSCoding", "SKAction"]
+- !private ["PSo8NSCoding", "TWControl"]
+- !private ["PSo8NSCoding", "defaultSoundEffectsEnabled"]
+- ["PSo8NSCoding", "playSound"]
+- !private ["PSo8NSCoding", "playSoundFileNamed"]
+- !private ["PSo8NSCoding", "runAction"]
+- !private ["PSo8NSCoding", "soundEffectsEnabled"]
+- !private ["PSo9NSCopying", "SKAction"]
+- !private ["PSo9NSCopying", "TWControl"]
+- !private ["PSo9NSCopying", "defaultSoundEffectsEnabled"]
+- ["PSo9NSCopying", "playSound"]
+- !private ["PSo9NSCopying", "playSoundFileNamed"]
+- !private ["PSo9NSCopying", "runAction"]
+- !private ["PSo9NSCopying", "soundEffectsEnabled"]
+- !private ["CSo8NSObject", "SKAction"]
+- ["CSo8NSObject", "String"]
+- !private ["CSo8NSObject", "TWControl"]
+- !private ["CSo8NSObject", "defaultSoundEffectsEnabled"]
+- ["CSo8NSObject", "playSound"]
+- !private ["CSo8NSObject", "playSoundFileNamed"]
+- !private ["CSo8NSObject", "runAction"]
+- !private ["CSo8NSObject", "soundEffectsEnabled"]
+- !private ["PSo16NSObjectProtocol", "SKAction"]
+- !private ["PSo16NSObjectProtocol", "TWControl"]
+- !private ["PSo16NSObjectProtocol", "defaultSoundEffectsEnabled"]
+- ["PSo16NSObjectProtocol", "playSound"]
+- !private ["PSo16NSObjectProtocol", "playSoundFileNamed"]
+- !private ["PSo16NSObjectProtocol", "runAction"]
+- !private ["PSo16NSObjectProtocol", "soundEffectsEnabled"]
+- ["PSs21NilLiteralConvertible", "Some"]
+- ["Sq", "Some"]
+- !private ["CSo8SKAction", "playSoundFileNamed"]
+- !private ["CSo6SKNode", "SKAction"]
+- ["CSo6SKNode", "String"]
+- !private ["CSo6SKNode", "TWControl"]
+- !private ["CSo6SKNode", "defaultSoundEffectsEnabled"]
+- ["CSo6SKNode", "playSound"]
+- !private ["CSo6SKNode", "runAction"]
+- !private ["CSo6SKNode", "soundEffectsEnabled"]
+- !private ["C13SpriteKitTest9TWControl", "SKAction"]
+- ["C13SpriteKitTest9TWControl", "String"]
+- !private ["C13SpriteKitTest9TWControl", "TWControl"]
+- !private ["C13SpriteKitTest9TWControl", "defaultSoundEffectsEnabled"]
+- ["C13SpriteKitTest9TWControl", "playSound"]
+- !private ["C13SpriteKitTest9TWControl", "runAction"]
+- !private ["C13SpriteKitTest9TWControl", "soundEffectsEnabled"]
+- !private ["CSo11UIResponder", "SKAction"]
+- ["CSo11UIResponder", "String"]
+- !private ["CSo11UIResponder", "TWControl"]
+- !private ["CSo11UIResponder", "defaultSoundEffectsEnabled"]
+- ["CSo11UIResponder", "playSound"]
+- !private ["CSo11UIResponder", "runAction"]
+- !private ["CSo11UIResponder", "soundEffectsEnabled"]
+- !private ["PSs33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- ["PSs12_Reflectable", "Some"]
+- !private ["PSs12_Reflectable", "_getBuiltinLogicValue"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "Sb"
+- !private "PSs25BooleanLiteralConvertible"
+- !private "PSs11BooleanType"
+- "PSs11CVarArgType"
+- "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSs21NilLiteralConvertible"
+- "Sq"
+- !private "CSo8SKAction"
+- "CSo6SKNode"
+- "C13SpriteKitTest9TWControl"
+- "CSo11UIResponder"
+- !private "PSs33_BuiltinBooleanLiteralConvertible"
+- !private "PSs21_ObjectiveCBridgeable"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/SpriteKitTest-Bridging-Header.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SpriteKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphonesimulator/SocketIOClientSwift.framework/Modules/SocketIOClientSwift.swiftmodule/x86_64.swiftmodule"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphonesimulator/SocketIOClientSwift.framework/Headers/SocketIOClientSwift-Swift.h"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphonesimulator/SocketIOClientSwift.framework/Headers/Socket.IO-Client-Swift-umbrella.h"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphonesimulator/SocketIOClientSwift.framework/Modules/module.modulemap"
+interface-hash: "bcced4dcd686236575798a3cb17e1c3b"

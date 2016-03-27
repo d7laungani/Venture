@@ -1,0 +1,60 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/devesh/Desktop/Swift Apps/Venture/DerivedData/SpriteKitTest/Build/Products/Debug-iphonesimulator/Pods_SpriteKitTest.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-SpriteKitTest-umbrella.h",
+          'external-contents': "/Users/devesh/Desktop/Swift Apps/Venture/Pods/Target Support Files/Pods-SpriteKitTest/Pods-SpriteKitTest-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_SpriteKitTest-Swift.h",
+          'external-contents': "/Users/devesh/Desktop/Swift Apps/Venture/DerivedData/SpriteKitTest/Build/Products/Debug-iphonesimulator/Pods_SpriteKitTest.framework/Headers/Pods_SpriteKitTest-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/devesh/Desktop/Swift Apps/Venture/DerivedData/SpriteKitTest/Build/Products/Debug-iphonesimulator/Pods_SpriteKitTest.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/devesh/Desktop/Swift Apps/Venture/DerivedData/SpriteKitTest/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SpriteKitTest.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/devesh/Desktop/Swift Apps/Venture/DerivedData/SpriteKitTest/Build/Products/Debug-iphonesimulator/SocketIOClientSwift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Socket.IO-Client-Swift-umbrella.h",
+          'external-contents': "/Users/devesh/Desktop/Swift Apps/Venture/Pods/Target Support Files/Socket.IO-Client-Swift/Socket.IO-Client-Swift-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SocketIOClientSwift-Swift.h",
+          'external-contents': "/Users/devesh/Desktop/Swift Apps/Venture/DerivedData/SpriteKitTest/Build/Products/Debug-iphonesimulator/SocketIOClientSwift.framework/Headers/SocketIOClientSwift-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/devesh/Desktop/Swift Apps/Venture/DerivedData/SpriteKitTest/Build/Products/Debug-iphonesimulator/SocketIOClientSwift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/devesh/Desktop/Swift Apps/Venture/DerivedData/SpriteKitTest/Build/Intermediates/Pods.build/Debug-iphonesimulator/Socket.IO-Client-Swift.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

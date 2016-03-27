@@ -1,0 +1,41 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SocketAckManager"
+provides-nominal:
+- "V19SocketIOClientSwift16SocketAckManager"
+provides-member:
+- ["V19SocketIOClientSwift16SocketAckManager", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Int"
+- !private "<"
+- "Set"
+- !private "=="
+- "SocketAck"
+- !private "Hashable"
+- !private "Equatable"
+- "AnyObject"
+- "SocketAckManager"
+- "AckCallback"
+- !private "Bool"
+- !private "dispatch_async"
+- !private "dispatch_get_main_queue"
+depends-member:
+- ["V19SocketIOClientSwift16SocketAckManager", "AckCallback"]
+- ["V19SocketIOClientSwift16SocketAckManager", "AnyObject"]
+- ["V19SocketIOClientSwift16SocketAckManager", "Int"]
+- ["V19SocketIOClientSwift16SocketAckManager", "Set"]
+- ["V19SocketIOClientSwift16SocketAckManager", "SocketAck"]
+- !private ["V19SocketIOClientSwift16SocketAckManager", "acks"]
+- !private ["V19SocketIOClientSwift16SocketAckManager", "dispatch_async"]
+- !private ["V19SocketIOClientSwift16SocketAckManager", "dispatch_get_main_queue"]
+- ["V19SocketIOClientSwift16SocketAckManager", "init"]
+depends-nominal:
+- "V19SocketIOClientSwift16SocketAckManager"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+interface-hash: "279ab08b2a47c9cd8e72b31e9d94ac13"

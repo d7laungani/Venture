@@ -1,0 +1,432 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GameScene"
+provides-nominal:
+- "C13SpriteKitTest9GameScene"
+provides-member:
+- ["C13SpriteKitTest9GameScene", ""]
+provides-dynamic-lookup:
+- "socket"
+- "didMoveToView"
+- "player"
+- "setPlayerPosition"
+- "addHandlers"
+depends-top-level:
+- !private "SKColor"
+- "SKScene"
+- "GameScene"
+- "Array"
+- "StringLiteralType"
+- "SKView"
+- !private "CGPoint"
+- !private "print"
+- "SocketIOClient"
+- "BooleanLiteralType"
+- !private "*"
+- "SKSpriteNode"
+- "NSURL"
+depends-member:
+- !private ["PSs9AnyObject", "CGPoint"]
+- ["PSs9AnyObject", "NSURL"]
+- !private ["PSs9AnyObject", "SKColor"]
+- ["PSs9AnyObject", "SKSpriteNode"]
+- ["PSs9AnyObject", "SocketIOClient"]
+- !private ["PSs9AnyObject", "addChild"]
+- ["PSs9AnyObject", "addHandlers"]
+- !private ["PSs9AnyObject", "backgroundColor"]
+- !private ["PSs9AnyObject", "connect"]
+- !private ["PSs9AnyObject", "deinit"]
+- ["PSs9AnyObject", "didMoveToView"]
+- !private ["PSs9AnyObject", "emit"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "on"]
+- ["PSs9AnyObject", "player"]
+- !private ["PSs9AnyObject", "position"]
+- !private ["PSs9AnyObject", "print"]
+- ["PSs9AnyObject", "setPlayerPosition"]
+- !private ["PSs9AnyObject", "size"]
+- ["PSs9AnyObject", "socket"]
+- !private ["PSs9AnyObject", "whiteColor"]
+- ["PSs9AnyObject", ""]
+- ["Sa", "Element"]
+- ["PSs23ArrayLiteralConvertible", "Element"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["VSC7CGPoint", "init"]
+- !private ["VSC6CGSize", "height"]
+- !private ["VSC6CGSize", "width"]
+- !private ["PSs11CVarArgType", "CGPoint"]
+- ["PSs11CVarArgType", "NSURL"]
+- !private ["PSs11CVarArgType", "SKColor"]
+- ["PSs11CVarArgType", "SKSpriteNode"]
+- ["PSs11CVarArgType", "SocketIOClient"]
+- !private ["PSs11CVarArgType", "addChild"]
+- ["PSs11CVarArgType", "addHandlers"]
+- !private ["PSs11CVarArgType", "backgroundColor"]
+- !private ["PSs11CVarArgType", "connect"]
+- ["PSs11CVarArgType", "didMoveToView"]
+- !private ["PSs11CVarArgType", "emit"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "on"]
+- ["PSs11CVarArgType", "player"]
+- !private ["PSs11CVarArgType", "position"]
+- !private ["PSs11CVarArgType", "print"]
+- ["PSs11CVarArgType", "setPlayerPosition"]
+- !private ["PSs11CVarArgType", "size"]
+- ["PSs11CVarArgType", "socket"]
+- !private ["PSs11CVarArgType", "whiteColor"]
+- ["PSs11CVarArgType", ""]
+- ["P19SocketIOClientSwift12ClientOption", "ForcePolling"]
+- ["P19SocketIOClientSwift12ClientOption", "Log"]
+- ["PSs14CollectionType", "Element"]
+- ["PSs28CustomDebugStringConvertible", "Element"]
+- !private ["PSs23CustomStringConvertible", "CGPoint"]
+- ["PSs23CustomStringConvertible", "Element"]
+- ["PSs23CustomStringConvertible", "ForcePolling"]
+- ["PSs23CustomStringConvertible", "Log"]
+- ["PSs23CustomStringConvertible", "NSURL"]
+- !private ["PSs23CustomStringConvertible", "SKColor"]
+- ["PSs23CustomStringConvertible", "SKSpriteNode"]
+- ["PSs23CustomStringConvertible", "SocketIOClient"]
+- !private ["PSs23CustomStringConvertible", "addChild"]
+- ["PSs23CustomStringConvertible", "addHandlers"]
+- !private ["PSs23CustomStringConvertible", "backgroundColor"]
+- !private ["PSs23CustomStringConvertible", "connect"]
+- ["PSs23CustomStringConvertible", "didMoveToView"]
+- !private ["PSs23CustomStringConvertible", "emit"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "on"]
+- ["PSs23CustomStringConvertible", "player"]
+- !private ["PSs23CustomStringConvertible", "position"]
+- !private ["PSs23CustomStringConvertible", "print"]
+- ["PSs23CustomStringConvertible", "setPlayerPosition"]
+- !private ["PSs23CustomStringConvertible", "size"]
+- ["PSs23CustomStringConvertible", "socket"]
+- !private ["PSs23CustomStringConvertible", "whiteColor"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["Sd", "deinit"]
+- !private ["PSs9Equatable", "CGPoint"]
+- ["PSs9Equatable", "Element"]
+- ["PSs9Equatable", "ForcePolling"]
+- ["PSs9Equatable", "Log"]
+- ["PSs9Equatable", "NSURL"]
+- !private ["PSs9Equatable", "SKColor"]
+- ["PSs9Equatable", "SKSpriteNode"]
+- ["PSs9Equatable", "SocketIOClient"]
+- !private ["PSs9Equatable", "addChild"]
+- ["PSs9Equatable", "addHandlers"]
+- !private ["PSs9Equatable", "backgroundColor"]
+- !private ["PSs9Equatable", "connect"]
+- ["PSs9Equatable", "didMoveToView"]
+- !private ["PSs9Equatable", "emit"]
+- !private ["PSs9Equatable", "height"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "on"]
+- ["PSs9Equatable", "player"]
+- !private ["PSs9Equatable", "position"]
+- !private ["PSs9Equatable", "print"]
+- ["PSs9Equatable", "setPlayerPosition"]
+- !private ["PSs9Equatable", "size"]
+- ["PSs9Equatable", "socket"]
+- !private ["PSs9Equatable", "whiteColor"]
+- !private ["PSs9Equatable", "width"]
+- ["PSs9Equatable", ""]
+- !private ["C13SpriteKitTest9GameScene", "CGPoint"]
+- ["C13SpriteKitTest9GameScene", "NSURL"]
+- !private ["C13SpriteKitTest9GameScene", "SKColor"]
+- ["C13SpriteKitTest9GameScene", "SKSpriteNode"]
+- ["C13SpriteKitTest9GameScene", "SKView"]
+- ["C13SpriteKitTest9GameScene", "SocketIOClient"]
+- !private ["C13SpriteKitTest9GameScene", "addChild"]
+- ["C13SpriteKitTest9GameScene", "addHandlers"]
+- !private ["C13SpriteKitTest9GameScene", "backgroundColor"]
+- ["C13SpriteKitTest9GameScene", "deinit"]
+- ["C13SpriteKitTest9GameScene", "didMoveToView"]
+- ["C13SpriteKitTest9GameScene", "init"]
+- ["C13SpriteKitTest9GameScene", "player"]
+- !private ["C13SpriteKitTest9GameScene", "print"]
+- ["C13SpriteKitTest9GameScene", "setPlayerPosition"]
+- !private ["C13SpriteKitTest9GameScene", "size"]
+- ["C13SpriteKitTest9GameScene", "socket"]
+- !private ["PSs8Hashable", "CGPoint"]
+- ["PSs8Hashable", "Element"]
+- ["PSs8Hashable", "ForcePolling"]
+- ["PSs8Hashable", "Log"]
+- ["PSs8Hashable", "NSURL"]
+- !private ["PSs8Hashable", "SKColor"]
+- ["PSs8Hashable", "SKSpriteNode"]
+- ["PSs8Hashable", "SocketIOClient"]
+- !private ["PSs8Hashable", "addChild"]
+- ["PSs8Hashable", "addHandlers"]
+- !private ["PSs8Hashable", "backgroundColor"]
+- !private ["PSs8Hashable", "connect"]
+- ["PSs8Hashable", "didMoveToView"]
+- !private ["PSs8Hashable", "emit"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "on"]
+- ["PSs8Hashable", "player"]
+- !private ["PSs8Hashable", "position"]
+- !private ["PSs8Hashable", "print"]
+- ["PSs8Hashable", "setPlayerPosition"]
+- !private ["PSs8Hashable", "size"]
+- ["PSs8Hashable", "socket"]
+- !private ["PSs8Hashable", "whiteColor"]
+- ["PSs8Hashable", ""]
+- ["PSs9Indexable", "Element"]
+- ["PSs21MutableCollectionType", "Element"]
+- ["PSs16MutableIndexable", "Element"]
+- ["PSs16MutableSliceable", "Element"]
+- !private ["PSo8NSCoding", "CGPoint"]
+- ["PSo8NSCoding", "NSURL"]
+- !private ["PSo8NSCoding", "SKColor"]
+- ["PSo8NSCoding", "SKSpriteNode"]
+- ["PSo8NSCoding", "SocketIOClient"]
+- !private ["PSo8NSCoding", "addChild"]
+- ["PSo8NSCoding", "addHandlers"]
+- !private ["PSo8NSCoding", "backgroundColor"]
+- ["PSo8NSCoding", "didMoveToView"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "player"]
+- !private ["PSo8NSCoding", "position"]
+- !private ["PSo8NSCoding", "print"]
+- ["PSo8NSCoding", "setPlayerPosition"]
+- !private ["PSo8NSCoding", "size"]
+- ["PSo8NSCoding", "socket"]
+- !private ["PSo8NSCoding", "whiteColor"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "CGPoint"]
+- ["PSo9NSCopying", "NSURL"]
+- !private ["PSo9NSCopying", "SKColor"]
+- ["PSo9NSCopying", "SKSpriteNode"]
+- ["PSo9NSCopying", "SocketIOClient"]
+- !private ["PSo9NSCopying", "addChild"]
+- ["PSo9NSCopying", "addHandlers"]
+- !private ["PSo9NSCopying", "backgroundColor"]
+- ["PSo9NSCopying", "didMoveToView"]
+- ["PSo9NSCopying", "init"]
+- ["PSo9NSCopying", "player"]
+- !private ["PSo9NSCopying", "position"]
+- !private ["PSo9NSCopying", "print"]
+- ["PSo9NSCopying", "setPlayerPosition"]
+- !private ["PSo9NSCopying", "size"]
+- ["PSo9NSCopying", "socket"]
+- !private ["PSo9NSCopying", "whiteColor"]
+- ["PSo9NSCopying", ""]
+- ["CSo12NSDictionary", "deinit"]
+- !private ["CSo8NSObject", "CGPoint"]
+- ["CSo8NSObject", "NSURL"]
+- !private ["CSo8NSObject", "SKColor"]
+- ["CSo8NSObject", "SKSpriteNode"]
+- ["CSo8NSObject", "SKView"]
+- ["CSo8NSObject", "SocketIOClient"]
+- !private ["CSo8NSObject", "addChild"]
+- ["CSo8NSObject", "addHandlers"]
+- !private ["CSo8NSObject", "backgroundColor"]
+- !private ["CSo8NSObject", "connect"]
+- ["CSo8NSObject", "didMoveToView"]
+- !private ["CSo8NSObject", "emit"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "on"]
+- ["CSo8NSObject", "player"]
+- !private ["CSo8NSObject", "position"]
+- !private ["CSo8NSObject", "print"]
+- ["CSo8NSObject", "setPlayerPosition"]
+- !private ["CSo8NSObject", "size"]
+- ["CSo8NSObject", "socket"]
+- !private ["CSo8NSObject", "whiteColor"]
+- !private ["PSo16NSObjectProtocol", "CGPoint"]
+- ["PSo16NSObjectProtocol", "NSURL"]
+- !private ["PSo16NSObjectProtocol", "SKColor"]
+- ["PSo16NSObjectProtocol", "SKSpriteNode"]
+- ["PSo16NSObjectProtocol", "SocketIOClient"]
+- !private ["PSo16NSObjectProtocol", "addChild"]
+- ["PSo16NSObjectProtocol", "addHandlers"]
+- !private ["PSo16NSObjectProtocol", "backgroundColor"]
+- !private ["PSo16NSObjectProtocol", "connect"]
+- ["PSo16NSObjectProtocol", "didMoveToView"]
+- !private ["PSo16NSObjectProtocol", "emit"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "on"]
+- ["PSo16NSObjectProtocol", "player"]
+- !private ["PSo16NSObjectProtocol", "position"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- ["PSo16NSObjectProtocol", "setPlayerPosition"]
+- !private ["PSo16NSObjectProtocol", "size"]
+- ["PSo16NSObjectProtocol", "socket"]
+- !private ["PSo16NSObjectProtocol", "whiteColor"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "whiteColor"]
+- ["CSo5NSURL", "init"]
+- ["PSs21NilLiteralConvertible", "Element"]
+- ["Sq", "Element"]
+- ["Sq", "deinit"]
+- ["PSs30RangeReplaceableCollectionType", "Element"]
+- !private ["CSo12SKEffectNode", "CGPoint"]
+- ["CSo12SKEffectNode", "NSURL"]
+- !private ["CSo12SKEffectNode", "SKColor"]
+- ["CSo12SKEffectNode", "SKSpriteNode"]
+- ["CSo12SKEffectNode", "SKView"]
+- ["CSo12SKEffectNode", "SocketIOClient"]
+- !private ["CSo12SKEffectNode", "addChild"]
+- ["CSo12SKEffectNode", "addHandlers"]
+- !private ["CSo12SKEffectNode", "backgroundColor"]
+- ["CSo12SKEffectNode", "didMoveToView"]
+- ["CSo12SKEffectNode", "init"]
+- ["CSo12SKEffectNode", "player"]
+- !private ["CSo12SKEffectNode", "print"]
+- ["CSo12SKEffectNode", "setPlayerPosition"]
+- !private ["CSo12SKEffectNode", "size"]
+- ["CSo12SKEffectNode", "socket"]
+- !private ["CSo6SKNode", "CGPoint"]
+- ["CSo6SKNode", "NSURL"]
+- !private ["CSo6SKNode", "SKColor"]
+- ["CSo6SKNode", "SKSpriteNode"]
+- ["CSo6SKNode", "SKView"]
+- ["CSo6SKNode", "SocketIOClient"]
+- !private ["CSo6SKNode", "addChild"]
+- ["CSo6SKNode", "addHandlers"]
+- !private ["CSo6SKNode", "backgroundColor"]
+- ["CSo6SKNode", "didMoveToView"]
+- ["CSo6SKNode", "init"]
+- ["CSo6SKNode", "player"]
+- !private ["CSo6SKNode", "position"]
+- !private ["CSo6SKNode", "print"]
+- ["CSo6SKNode", "setPlayerPosition"]
+- !private ["CSo6SKNode", "size"]
+- ["CSo6SKNode", "socket"]
+- !private ["CSo7SKScene", "CGPoint"]
+- ["CSo7SKScene", "NSURL"]
+- !private ["CSo7SKScene", "SKColor"]
+- ["CSo7SKScene", "SKSpriteNode"]
+- ["CSo7SKScene", "SKView"]
+- ["CSo7SKScene", "SocketIOClient"]
+- !private ["CSo7SKScene", "addChild"]
+- ["CSo7SKScene", "addHandlers"]
+- !private ["CSo7SKScene", "backgroundColor"]
+- ["CSo7SKScene", "didMoveToView"]
+- ["CSo7SKScene", "init"]
+- ["CSo7SKScene", "player"]
+- !private ["CSo7SKScene", "print"]
+- ["CSo7SKScene", "setPlayerPosition"]
+- !private ["CSo7SKScene", "size"]
+- ["CSo7SKScene", "socket"]
+- ["CSo7SKScene", ""]
+- ["CSo12SKSpriteNode", "init"]
+- !private ["CSo12SKSpriteNode", "position"]
+- ["PSs12SequenceType", "Element"]
+- ["VSs3Set", "Element"]
+- !private ["P19SocketIOClientSwift16SocketClientSpec", "connect"]
+- !private ["P19SocketIOClientSwift16SocketClientSpec", "emit"]
+- ["P19SocketIOClientSwift16SocketClientSpec", "init"]
+- !private ["P19SocketIOClientSwift16SocketClientSpec", "on"]
+- !private ["P19SocketIOClientSwift18SocketEngineClient", "connect"]
+- !private ["P19SocketIOClientSwift18SocketEngineClient", "emit"]
+- ["P19SocketIOClientSwift18SocketEngineClient", "init"]
+- !private ["P19SocketIOClientSwift18SocketEngineClient", "on"]
+- !private ["C19SocketIOClientSwift14SocketIOClient", "connect"]
+- !private ["C19SocketIOClientSwift14SocketIOClient", "emit"]
+- ["C19SocketIOClientSwift14SocketIOClient", "init"]
+- !private ["C19SocketIOClientSwift14SocketIOClient", "on"]
+- ["O19SocketIOClientSwift20SocketIOClientOption", "ForcePolling"]
+- ["O19SocketIOClientSwift20SocketIOClientOption", "Log"]
+- !private ["P19SocketIOClientSwift14SocketParsable", "connect"]
+- !private ["P19SocketIOClientSwift14SocketParsable", "emit"]
+- ["P19SocketIOClientSwift14SocketParsable", "init"]
+- !private ["P19SocketIOClientSwift14SocketParsable", "on"]
+- !private ["SS", "deinit"]
+- !private ["CSo7UIColor", "whiteColor"]
+- !private ["CSo11UIResponder", "CGPoint"]
+- ["CSo11UIResponder", "NSURL"]
+- !private ["CSo11UIResponder", "SKColor"]
+- ["CSo11UIResponder", "SKSpriteNode"]
+- ["CSo11UIResponder", "SKView"]
+- ["CSo11UIResponder", "SocketIOClient"]
+- !private ["CSo11UIResponder", "addChild"]
+- ["CSo11UIResponder", "addHandlers"]
+- !private ["CSo11UIResponder", "backgroundColor"]
+- ["CSo11UIResponder", "didMoveToView"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "player"]
+- !private ["CSo11UIResponder", "position"]
+- !private ["CSo11UIResponder", "print"]
+- ["CSo11UIResponder", "setPlayerPosition"]
+- !private ["CSo11UIResponder", "size"]
+- ["CSo11UIResponder", "socket"]
+- ["PSs10_ArrayType", "Element"]
+- !private ["PSs24_ColorLiteralConvertible", "whiteColor"]
+- ["PSs24_DestructorSafeContainer", "Element"]
+- ["PSs32_FileReferenceLiteralConvertible", "init"]
+- ["PSs21_ObjectiveCBridgeable", "Element"]
+- ["PSs12_Reflectable", "Element"]
+- !private ["PSs12_Reflectable", "height"]
+- ["PSs12_Reflectable", "init"]
+- !private ["PSs12_Reflectable", "position"]
+- !private ["PSs12_Reflectable", "width"]
+depends-nominal:
+- "PSs9AnyObject"
+- "Sa"
+- "PSs23ArrayLiteralConvertible"
+- !private "V12CoreGraphics7CGFloat"
+- !private "VSC7CGPoint"
+- !private "VSC6CGSize"
+- "PSs11CVarArgType"
+- "P19SocketIOClientSwift12ClientOption"
+- "PSs14CollectionType"
+- "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- !private "Sd"
+- "PSs9Equatable"
+- "C13SpriteKitTest9GameScene"
+- "PSs8Hashable"
+- "PSs9Indexable"
+- "PSs21MutableCollectionType"
+- "PSs16MutableIndexable"
+- "PSs16MutableSliceable"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo12NSDictionary"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo5NSURL"
+- "PSs21NilLiteralConvertible"
+- "Sq"
+- "PSs30RangeReplaceableCollectionType"
+- "CSo12SKEffectNode"
+- "CSo6SKNode"
+- "CSo7SKScene"
+- "CSo12SKSpriteNode"
+- "PSs12SequenceType"
+- "VSs3Set"
+- "P19SocketIOClientSwift16SocketClientSpec"
+- "P19SocketIOClientSwift18SocketEngineClient"
+- "C19SocketIOClientSwift14SocketIOClient"
+- "O19SocketIOClientSwift20SocketIOClientOption"
+- "P19SocketIOClientSwift14SocketParsable"
+- !private "SS"
+- !private "CSo7UIColor"
+- "CSo11UIResponder"
+- "PSs10_ArrayType"
+- !private "PSs24_ColorLiteralConvertible"
+- "PSs24_DestructorSafeContainer"
+- "PSs32_FileReferenceLiteralConvertible"
+- "PSs21_ObjectiveCBridgeable"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SpriteKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/simd.swiftmodule"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphoneos/SocketIOClientSwift.framework/Modules/SocketIOClientSwift.swiftmodule/arm.swiftmodule"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphoneos/SocketIOClientSwift.framework/Headers/SocketIOClientSwift-Swift.h"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphoneos/SocketIOClientSwift.framework/Headers/Socket.IO-Client-Swift-umbrella.h"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphoneos/SocketIOClientSwift.framework/Modules/module.modulemap"
+interface-hash: "bb8ecccd049f681d7f0d8fe1dd1c1d8f"

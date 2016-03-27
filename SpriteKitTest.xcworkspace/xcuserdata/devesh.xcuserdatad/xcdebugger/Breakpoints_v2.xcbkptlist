@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpriteKitTest/GameScene.swift"
+            timestampString = "480784789.326634"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpriteKitTest.GameScene.mazeImage.getter : __ObjC.SKSpriteNode"
+                  moduleName = "SpriteKitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devesh/Desktop/Swift%20Apps/SpriteKitTest/SpriteKitTest/GameScene.swift"
+                  timestampString = "480656195.022508"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpriteKitTest.GameScene.mazeImage.setter : __ObjC.SKSpriteNode"
+                  moduleName = "SpriteKitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devesh/Desktop/Swift%20Apps/SpriteKitTest/SpriteKitTest/GameScene.swift"
+                  timestampString = "480656195.023813"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpriteKitTest.GameScene.mazeImage.materializeForSet : __ObjC.SKSpriteNode"
+                  moduleName = "SpriteKitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devesh/Desktop/Swift%20Apps/SpriteKitTest/SpriteKitTest/GameScene.swift"
+                  timestampString = "480656195.023993"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpriteKitTest.GameScene.init (SpriteKitTest.GameScene.Type)(size : __C.CGSize) -&gt; SpriteKitTest.GameScene"
+                  moduleName = "SpriteKitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devesh/Desktop/Swift%20Apps/SpriteKitTest/SpriteKitTest/GameScene.swift"
+                  timestampString = "480656195.024129"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpriteKitTest.GameScene.init (SpriteKitTest.GameScene.Type)() -&gt; SpriteKitTest.GameScene"
+                  moduleName = "SpriteKitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devesh/Desktop/Swift%20Apps/SpriteKitTest/SpriteKitTest/GameScene.swift"
+                  timestampString = "480656195.024259"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "593">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpriteKitTest.GameScene.init (SpriteKitTest.GameScene.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SpriteKitTest.GameScene&gt;"
+                  moduleName = "SpriteKitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devesh/Desktop/Swift%20Apps/SpriteKitTest/SpriteKitTest/GameScene.swift"
+                  timestampString = "480656195.024397"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "613">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpriteKitTest/GameScene.swift"
+            timestampString = "480788009.520157"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "229"
+            endingLineNumber = "229">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpriteKitTest/GameScene.swift"
+            timestampString = "480784789.326634"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

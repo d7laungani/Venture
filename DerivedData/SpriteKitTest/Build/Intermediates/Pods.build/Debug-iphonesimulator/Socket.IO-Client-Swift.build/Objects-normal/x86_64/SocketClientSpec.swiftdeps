@@ -1,0 +1,40 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SocketClientSpec"
+provides-nominal:
+- "P19SocketIOClientSwift16SocketClientSpec"
+provides-member:
+- ["P19SocketIOClientSwift16SocketClientSpec", ""]
+- ["P19SocketIOClientSwift16SocketClientSpec", "didError"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AnyObject"
+- "Int"
+- "String"
+- "Bool"
+- !private "DefaultSocketLogger"
+- "SocketClientSpec"
+- "SocketPacket"
+depends-member:
+- !private ["C19SocketIOClientSwift19DefaultSocketLogger", "Logger"]
+- ["P19SocketIOClientSwift16SocketClientSpec", "AnyObject"]
+- ["P19SocketIOClientSwift16SocketClientSpec", "Bool"]
+- !private ["P19SocketIOClientSwift16SocketClientSpec", "DefaultSocketLogger"]
+- ["P19SocketIOClientSwift16SocketClientSpec", "Int"]
+- ["P19SocketIOClientSwift16SocketClientSpec", "SocketPacket"]
+- ["P19SocketIOClientSwift16SocketClientSpec", "String"]
+- ["P19SocketIOClientSwift16SocketClientSpec", "didConnect"]
+- !private ["P19SocketIOClientSwift16SocketClientSpec", "handleEvent"]
+- !private ["P19SocketIOClientSwift12SocketLogger", "Logger"]
+- !private ["P19SocketIOClientSwift12SocketLogger", "error"]
+depends-nominal:
+- !private "C19SocketIOClientSwift19DefaultSocketLogger"
+- "P19SocketIOClientSwift16SocketClientSpec"
+- !private "P19SocketIOClientSwift12SocketLogger"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+interface-hash: "efc03caeaa361b3d83ad88bd6584c8b7"

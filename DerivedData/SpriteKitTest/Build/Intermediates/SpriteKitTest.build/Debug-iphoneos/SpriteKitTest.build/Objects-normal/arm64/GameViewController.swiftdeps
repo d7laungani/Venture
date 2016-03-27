@@ -1,0 +1,638 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GameViewController"
+provides-nominal:
+- "C13SpriteKitTest18GameViewController"
+provides-member:
+- ["C13SpriteKitTest18GameViewController", ""]
+- ["CSo7UIColor", ""]
+- ["CSo7UIColor", "init"]
+provides-dynamic-lookup:
+- "prefersStatusBarHidden"
+- "viewDidLoad"
+depends-top-level:
+- "Bool"
+- !private "&"
+- !private "NSScanner"
+- !private "BooleanLiteralType"
+- !private "UInt32"
+- !private "/"
+- "String"
+- !private "GameScene"
+- !private "SKView"
+- !private "CGFloat"
+- !private "~="
+- !private "*"
+- !private "NSCharacterSet"
+- "UIColor"
+- "UIViewController"
+- !private ">>"
+- "GameViewController"
+depends-member:
+- !private ["PSs16AbsoluteValuable", "init"]
+- !private ["PSs9AnyObject", "CGFloat"]
+- !private ["PSs9AnyObject", "GameScene"]
+- !private ["PSs9AnyObject", "NSCharacterSet"]
+- !private ["PSs9AnyObject", "NSScanner"]
+- !private ["PSs9AnyObject", "UInt32"]
+- !private ["PSs9AnyObject", "alphanumericCharacterSet"]
+- !private ["PSs9AnyObject", "bounds"]
+- !private ["PSs9AnyObject", "characters"]
+- !private ["PSs9AnyObject", "ignoresSiblingOrder"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "invertedSet"]
+- ["PSs9AnyObject", "prefersStatusBarHidden"]
+- !private ["PSs9AnyObject", "presentScene"]
+- !private ["PSs9AnyObject", "scaleMode"]
+- !private ["PSs9AnyObject", "scanHexInt"]
+- !private ["PSs9AnyObject", "showsFPS"]
+- !private ["PSs9AnyObject", "showsNodeCount"]
+- !private ["PSs9AnyObject", "stringByTrimmingCharactersInSet"]
+- !private ["PSs9AnyObject", "view"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs22BidirectionalIndexType", "Distance"]
+- !private ["PSs22BidirectionalIndexType", "IntegerLiteralType"]
+- !private ["PSs22BidirectionalIndexType", "init"]
+- !private ["PSs21BitwiseOperationsType", "Distance"]
+- !private ["PSs21BitwiseOperationsType", "IntegerLiteralType"]
+- !private ["PSs21BitwiseOperationsType", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["PSs25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs11BooleanType", "_getBuiltinLogicValue"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["V12CoreGraphics7CGFloat", "init"]
+- !private ["VSC6CGRect", "size"]
+- !private ["PSs11CVarArgType", "CGFloat"]
+- !private ["PSs11CVarArgType", "Distance"]
+- !private ["PSs11CVarArgType", "GameScene"]
+- !private ["PSs11CVarArgType", "IntegerLiteralType"]
+- !private ["PSs11CVarArgType", "NSCharacterSet"]
+- !private ["PSs11CVarArgType", "NSScanner"]
+- !private ["PSs11CVarArgType", "UInt32"]
+- !private ["PSs11CVarArgType", "alphanumericCharacterSet"]
+- !private ["PSs11CVarArgType", "bounds"]
+- !private ["PSs11CVarArgType", "characters"]
+- !private ["PSs11CVarArgType", "ignoresSiblingOrder"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "invertedSet"]
+- ["PSs11CVarArgType", "prefersStatusBarHidden"]
+- !private ["PSs11CVarArgType", "presentScene"]
+- !private ["PSs11CVarArgType", "scaleMode"]
+- !private ["PSs11CVarArgType", "scanHexInt"]
+- !private ["PSs11CVarArgType", "showsFPS"]
+- !private ["PSs11CVarArgType", "showsNodeCount"]
+- !private ["PSs11CVarArgType", "stringByTrimmingCharactersInSet"]
+- !private ["PSs11CVarArgType", "view"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", ""]
+- !private ["VSS13CharacterView", "Generator"]
+- !private ["VSS13CharacterView", "Index"]
+- !private ["VSS13CharacterView", "SubSequence"]
+- !private ["VSS13CharacterView", "count"]
+- !private ["PSs14CollectionType", "Generator"]
+- !private ["PSs14CollectionType", "Index"]
+- !private ["PSs14CollectionType", "SubSequence"]
+- !private ["PSs14CollectionType", "count"]
+- !private ["PSs10Comparable", "Distance"]
+- !private ["PSs10Comparable", "IntegerLiteralType"]
+- !private ["PSs10Comparable", "characters"]
+- !private ["PSs10Comparable", "init"]
+- !private ["PSs10Comparable", "stringByTrimmingCharactersInSet"]
+- !private ["PSs28CustomDebugStringConvertible", "characters"]
+- !private ["PSs28CustomDebugStringConvertible", "stringByTrimmingCharactersInSet"]
+- !private ["PSs23CustomStringConvertible", "CGFloat"]
+- !private ["PSs23CustomStringConvertible", "Distance"]
+- !private ["PSs23CustomStringConvertible", "GameScene"]
+- !private ["PSs23CustomStringConvertible", "IntegerLiteralType"]
+- !private ["PSs23CustomStringConvertible", "NSCharacterSet"]
+- !private ["PSs23CustomStringConvertible", "NSScanner"]
+- !private ["PSs23CustomStringConvertible", "UInt32"]
+- !private ["PSs23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs23CustomStringConvertible", "alphanumericCharacterSet"]
+- !private ["PSs23CustomStringConvertible", "bounds"]
+- !private ["PSs23CustomStringConvertible", "characters"]
+- !private ["PSs23CustomStringConvertible", "ignoresSiblingOrder"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "invertedSet"]
+- ["PSs23CustomStringConvertible", "prefersStatusBarHidden"]
+- !private ["PSs23CustomStringConvertible", "presentScene"]
+- !private ["PSs23CustomStringConvertible", "scaleMode"]
+- !private ["PSs23CustomStringConvertible", "scanHexInt"]
+- !private ["PSs23CustomStringConvertible", "showsFPS"]
+- !private ["PSs23CustomStringConvertible", "showsNodeCount"]
+- !private ["PSs23CustomStringConvertible", "stringByTrimmingCharactersInSet"]
+- !private ["PSs23CustomStringConvertible", "view"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["Sd", "deinit"]
+- !private ["PSs9Equatable", "AspectFill"]
+- !private ["PSs9Equatable", "CGFloat"]
+- !private ["PSs9Equatable", "Distance"]
+- !private ["PSs9Equatable", "GameScene"]
+- !private ["PSs9Equatable", "IntegerLiteralType"]
+- !private ["PSs9Equatable", "NSCharacterSet"]
+- !private ["PSs9Equatable", "NSScanner"]
+- !private ["PSs9Equatable", "UInt32"]
+- !private ["PSs9Equatable", "_getBuiltinLogicValue"]
+- !private ["PSs9Equatable", "alphanumericCharacterSet"]
+- !private ["PSs9Equatable", "bounds"]
+- !private ["PSs9Equatable", "characters"]
+- !private ["PSs9Equatable", "ignoresSiblingOrder"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "invertedSet"]
+- ["PSs9Equatable", "prefersStatusBarHidden"]
+- !private ["PSs9Equatable", "presentScene"]
+- !private ["PSs9Equatable", "scaleMode"]
+- !private ["PSs9Equatable", "scanHexInt"]
+- !private ["PSs9Equatable", "showsFPS"]
+- !private ["PSs9Equatable", "showsNodeCount"]
+- !private ["PSs9Equatable", "size"]
+- !private ["PSs9Equatable", "stringByTrimmingCharactersInSet"]
+- !private ["PSs9Equatable", "view"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", ""]
+- !private ["PSs41ExtendedGraphemeClusterLiteralConvertible", "characters"]
+- !private ["PSs41ExtendedGraphemeClusterLiteralConvertible", "stringByTrimmingCharactersInSet"]
+- !private ["PSs23FloatLiteralConvertible", "init"]
+- !private ["PSs17FloatingPointType", "init"]
+- !private ["PSs16ForwardIndexType", "Distance"]
+- !private ["PSs16ForwardIndexType", "IntegerLiteralType"]
+- !private ["PSs16ForwardIndexType", "init"]
+- !private ["C13SpriteKitTest9GameScene", "init"]
+- !private ["C13SpriteKitTest9GameScene", "scaleMode"]
+- ["C13SpriteKitTest18GameViewController", "Bool"]
+- !private ["C13SpriteKitTest18GameViewController", "GameScene"]
+- !private ["C13SpriteKitTest18GameViewController", "SKView"]
+- ["C13SpriteKitTest18GameViewController", "deinit"]
+- ["C13SpriteKitTest18GameViewController", "init"]
+- ["C13SpriteKitTest18GameViewController", "prefersStatusBarHidden"]
+- !private ["C13SpriteKitTest18GameViewController", "view"]
+- ["C13SpriteKitTest18GameViewController", "viewDidLoad"]
+- !private ["PSs8Hashable", "AspectFill"]
+- !private ["PSs8Hashable", "CGFloat"]
+- !private ["PSs8Hashable", "Distance"]
+- !private ["PSs8Hashable", "GameScene"]
+- !private ["PSs8Hashable", "IntegerLiteralType"]
+- !private ["PSs8Hashable", "NSCharacterSet"]
+- !private ["PSs8Hashable", "NSScanner"]
+- !private ["PSs8Hashable", "UInt32"]
+- !private ["PSs8Hashable", "_getBuiltinLogicValue"]
+- !private ["PSs8Hashable", "alphanumericCharacterSet"]
+- !private ["PSs8Hashable", "bounds"]
+- !private ["PSs8Hashable", "characters"]
+- !private ["PSs8Hashable", "ignoresSiblingOrder"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "invertedSet"]
+- ["PSs8Hashable", "prefersStatusBarHidden"]
+- !private ["PSs8Hashable", "presentScene"]
+- !private ["PSs8Hashable", "scaleMode"]
+- !private ["PSs8Hashable", "scanHexInt"]
+- !private ["PSs8Hashable", "showsFPS"]
+- !private ["PSs8Hashable", "showsNodeCount"]
+- !private ["PSs8Hashable", "stringByTrimmingCharactersInSet"]
+- !private ["PSs8Hashable", "view"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", ""]
+- !private ["SQ", "deinit"]
+- !private ["VVSS13CharacterView5Index", "Distance"]
+- !private ["PSs9Indexable", "Generator"]
+- !private ["PSs9Indexable", "Index"]
+- !private ["PSs9Indexable", "SubSequence"]
+- !private ["PSs9Indexable", "count"]
+- !private ["Si", "Distance"]
+- !private ["Si", "IntegerLiteralType"]
+- !private ["Si", "deinit"]
+- !private ["PSs21IntegerArithmeticType", "Distance"]
+- !private ["PSs21IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["PSs21IntegerArithmeticType", "init"]
+- !private ["PSs25IntegerLiteralConvertible", "Distance"]
+- !private ["PSs25IntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["PSs25IntegerLiteralConvertible", "init"]
+- !private ["PSs11IntegerType", "Distance"]
+- !private ["PSs11IntegerType", "IntegerLiteralType"]
+- !private ["PSs11IntegerType", "init"]
+- !private ["PSs14MirrorPathType", "Distance"]
+- !private ["PSs14MirrorPathType", "IntegerLiteralType"]
+- !private ["PSs14MirrorPathType", "characters"]
+- !private ["PSs14MirrorPathType", "stringByTrimmingCharactersInSet"]
+- !private ["CSo14NSCharacterSet", "alphanumericCharacterSet"]
+- !private ["CSo14NSCharacterSet", "invertedSet"]
+- !private ["PSo8NSCoding", "CGFloat"]
+- !private ["PSo8NSCoding", "GameScene"]
+- !private ["PSo8NSCoding", "NSCharacterSet"]
+- !private ["PSo8NSCoding", "NSScanner"]
+- !private ["PSo8NSCoding", "UInt32"]
+- !private ["PSo8NSCoding", "alphanumericCharacterSet"]
+- !private ["PSo8NSCoding", "bounds"]
+- !private ["PSo8NSCoding", "characters"]
+- !private ["PSo8NSCoding", "ignoresSiblingOrder"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "invertedSet"]
+- ["PSo8NSCoding", "prefersStatusBarHidden"]
+- !private ["PSo8NSCoding", "presentScene"]
+- !private ["PSo8NSCoding", "scaleMode"]
+- !private ["PSo8NSCoding", "showsFPS"]
+- !private ["PSo8NSCoding", "showsNodeCount"]
+- !private ["PSo8NSCoding", "stringByTrimmingCharactersInSet"]
+- !private ["PSo8NSCoding", "view"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "CGFloat"]
+- !private ["PSo9NSCopying", "NSCharacterSet"]
+- !private ["PSo9NSCopying", "NSScanner"]
+- !private ["PSo9NSCopying", "UInt32"]
+- !private ["PSo9NSCopying", "alphanumericCharacterSet"]
+- !private ["PSo9NSCopying", "characters"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "invertedSet"]
+- !private ["PSo9NSCopying", "scaleMode"]
+- !private ["PSo9NSCopying", "scanHexInt"]
+- !private ["PSo9NSCopying", "stringByTrimmingCharactersInSet"]
+- !private ["PSo26NSExtensionRequestHandling", "GameScene"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "prefersStatusBarHidden"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "alphanumericCharacterSet"]
+- !private ["PSo16NSMutableCopying", "characters"]
+- !private ["PSo16NSMutableCopying", "invertedSet"]
+- !private ["PSo16NSMutableCopying", "stringByTrimmingCharactersInSet"]
+- !private ["CSo8NSNumber", "deinit"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "CGFloat"]
+- !private ["CSo8NSObject", "GameScene"]
+- !private ["CSo8NSObject", "NSCharacterSet"]
+- !private ["CSo8NSObject", "NSScanner"]
+- !private ["CSo8NSObject", "SKView"]
+- ["CSo8NSObject", "String"]
+- !private ["CSo8NSObject", "UInt32"]
+- !private ["CSo8NSObject", "alphanumericCharacterSet"]
+- !private ["CSo8NSObject", "bounds"]
+- !private ["CSo8NSObject", "characters"]
+- !private ["CSo8NSObject", "deinit"]
+- !private ["CSo8NSObject", "ignoresSiblingOrder"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "invertedSet"]
+- ["CSo8NSObject", "prefersStatusBarHidden"]
+- !private ["CSo8NSObject", "presentScene"]
+- !private ["CSo8NSObject", "scaleMode"]
+- !private ["CSo8NSObject", "scanHexInt"]
+- !private ["CSo8NSObject", "showsFPS"]
+- !private ["CSo8NSObject", "showsNodeCount"]
+- !private ["CSo8NSObject", "stringByTrimmingCharactersInSet"]
+- !private ["CSo8NSObject", "view"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "CGFloat"]
+- !private ["PSo16NSObjectProtocol", "GameScene"]
+- !private ["PSo16NSObjectProtocol", "NSCharacterSet"]
+- !private ["PSo16NSObjectProtocol", "NSScanner"]
+- !private ["PSo16NSObjectProtocol", "UInt32"]
+- !private ["PSo16NSObjectProtocol", "alphanumericCharacterSet"]
+- !private ["PSo16NSObjectProtocol", "bounds"]
+- !private ["PSo16NSObjectProtocol", "characters"]
+- !private ["PSo16NSObjectProtocol", "ignoresSiblingOrder"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "invertedSet"]
+- ["PSo16NSObjectProtocol", "prefersStatusBarHidden"]
+- !private ["PSo16NSObjectProtocol", "presentScene"]
+- !private ["PSo16NSObjectProtocol", "scaleMode"]
+- !private ["PSo16NSObjectProtocol", "scanHexInt"]
+- !private ["PSo16NSObjectProtocol", "showsFPS"]
+- !private ["PSo16NSObjectProtocol", "showsNodeCount"]
+- !private ["PSo16NSObjectProtocol", "stringByTrimmingCharactersInSet"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["CSo9NSScanner", "init"]
+- !private ["CSo9NSScanner", "scanHexInt"]
+- !private ["PSo14NSSecureCoding", "CGFloat"]
+- !private ["PSo14NSSecureCoding", "NSCharacterSet"]
+- !private ["PSo14NSSecureCoding", "NSScanner"]
+- !private ["PSo14NSSecureCoding", "UInt32"]
+- !private ["PSo14NSSecureCoding", "characters"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "stringByTrimmingCharactersInSet"]
+- !private ["CSo8NSString", "characters"]
+- !private ["CSo8NSString", "stringByTrimmingCharactersInSet"]
+- !private ["CSo7NSValue", "deinit"]
+- !private ["PSs16OutputStreamType", "characters"]
+- !private ["PSs16OutputStreamType", "stringByTrimmingCharactersInSet"]
+- !private ["PSs21RandomAccessIndexType", "Distance"]
+- !private ["PSs21RandomAccessIndexType", "IntegerLiteralType"]
+- !private ["PSs21RandomAccessIndexType", "init"]
+- !private ["VSs5Range", "deinit"]
+- !private ["PSs30RangeReplaceableCollectionType", "Generator"]
+- !private ["PSs30RangeReplaceableCollectionType", "Index"]
+- !private ["PSs30RangeReplaceableCollectionType", "SubSequence"]
+- !private ["PSs30RangeReplaceableCollectionType", "count"]
+- !private ["PSs16RawRepresentable", "AspectFill"]
+- !private ["CSo12SKEffectNode", "init"]
+- !private ["CSo12SKEffectNode", "scaleMode"]
+- !private ["CSo6SKNode", "init"]
+- !private ["CSo6SKNode", "scaleMode"]
+- !private ["CSo7SKScene", "init"]
+- !private ["CSo7SKScene", "scaleMode"]
+- !private ["OSC16SKSceneScaleMode", "AspectFill"]
+- !private ["CSo6SKView", "ignoresSiblingOrder"]
+- !private ["CSo6SKView", "presentScene"]
+- !private ["CSo6SKView", "showsFPS"]
+- !private ["CSo6SKView", "showsNodeCount"]
+- !private ["PSs12SequenceType", "Generator"]
+- !private ["PSs12SequenceType", "Index"]
+- !private ["PSs12SequenceType", "SubSequence"]
+- !private ["PSs12SequenceType", "count"]
+- !private ["PSs17SignedIntegerType", "Distance"]
+- !private ["PSs17SignedIntegerType", "IntegerLiteralType"]
+- !private ["PSs16SignedNumberType", "Distance"]
+- !private ["PSs16SignedNumberType", "IntegerLiteralType"]
+- !private ["PSs16SignedNumberType", "init"]
+- !private ["PSs10Streamable", "characters"]
+- !private ["PSs10Streamable", "stringByTrimmingCharactersInSet"]
+- !private ["PSs10Strideable", "Distance"]
+- !private ["PSs10Strideable", "IntegerLiteralType"]
+- !private ["PSs10Strideable", "init"]
+- !private ["SS", "characters"]
+- !private ["SS", "stringByTrimmingCharactersInSet"]
+- !private ["PSs30StringInterpolationConvertible", "characters"]
+- !private ["PSs30StringInterpolationConvertible", "stringByTrimmingCharactersInSet"]
+- !private ["PSs24StringLiteralConvertible", "characters"]
+- !private ["PSs24StringLiteralConvertible", "stringByTrimmingCharactersInSet"]
+- !private ["PSo29UIAccessibilityIdentification", "bounds"]
+- !private ["PSo29UIAccessibilityIdentification", "ignoresSiblingOrder"]
+- !private ["PSo29UIAccessibilityIdentification", "presentScene"]
+- !private ["PSo29UIAccessibilityIdentification", "showsFPS"]
+- !private ["PSo29UIAccessibilityIdentification", "showsNodeCount"]
+- !private ["PSo12UIAppearance", "bounds"]
+- !private ["PSo12UIAppearance", "ignoresSiblingOrder"]
+- !private ["PSo12UIAppearance", "presentScene"]
+- !private ["PSo12UIAppearance", "showsFPS"]
+- !private ["PSo12UIAppearance", "showsNodeCount"]
+- !private ["PSo21UIAppearanceContainer", "GameScene"]
+- !private ["PSo21UIAppearanceContainer", "bounds"]
+- !private ["PSo21UIAppearanceContainer", "ignoresSiblingOrder"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "prefersStatusBarHidden"]
+- !private ["PSo21UIAppearanceContainer", "presentScene"]
+- !private ["PSo21UIAppearanceContainer", "showsFPS"]
+- !private ["PSo21UIAppearanceContainer", "showsNodeCount"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo7UIColor", "CGFloat"]
+- !private ["CSo7UIColor", "NSCharacterSet"]
+- !private ["CSo7UIColor", "NSScanner"]
+- ["CSo7UIColor", "String"]
+- !private ["CSo7UIColor", "UInt32"]
+- ["CSo7UIColor", "init"]
+- !private ["PSo18UIContentContainer", "GameScene"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "prefersStatusBarHidden"]
+- !private ["PSo18UIContentContainer", "view"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "bounds"]
+- !private ["PSo17UICoordinateSpace", "ignoresSiblingOrder"]
+- !private ["PSo17UICoordinateSpace", "presentScene"]
+- !private ["PSo17UICoordinateSpace", "showsFPS"]
+- !private ["PSo17UICoordinateSpace", "showsNodeCount"]
+- !private ["PSo13UIDynamicItem", "bounds"]
+- !private ["PSo13UIDynamicItem", "ignoresSiblingOrder"]
+- !private ["PSo13UIDynamicItem", "presentScene"]
+- !private ["PSo13UIDynamicItem", "showsFPS"]
+- !private ["PSo13UIDynamicItem", "showsNodeCount"]
+- !private ["PSo18UIFocusEnvironment", "GameScene"]
+- !private ["PSo18UIFocusEnvironment", "bounds"]
+- !private ["PSo18UIFocusEnvironment", "ignoresSiblingOrder"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "prefersStatusBarHidden"]
+- !private ["PSo18UIFocusEnvironment", "presentScene"]
+- !private ["PSo18UIFocusEnvironment", "showsFPS"]
+- !private ["PSo18UIFocusEnvironment", "showsNodeCount"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "Bool"]
+- !private ["CSo11UIResponder", "GameScene"]
+- !private ["CSo11UIResponder", "SKView"]
+- !private ["CSo11UIResponder", "bounds"]
+- !private ["CSo11UIResponder", "ignoresSiblingOrder"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "prefersStatusBarHidden"]
+- !private ["CSo11UIResponder", "presentScene"]
+- !private ["CSo11UIResponder", "scaleMode"]
+- !private ["CSo11UIResponder", "showsFPS"]
+- !private ["CSo11UIResponder", "showsNodeCount"]
+- !private ["CSo11UIResponder", "view"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo16UIStateRestoring", "GameScene"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "prefersStatusBarHidden"]
+- !private ["PSo16UIStateRestoring", "view"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "GameScene"]
+- !private ["PSo18UITraitEnvironment", "bounds"]
+- !private ["PSo18UITraitEnvironment", "ignoresSiblingOrder"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "prefersStatusBarHidden"]
+- !private ["PSo18UITraitEnvironment", "presentScene"]
+- !private ["PSo18UITraitEnvironment", "showsFPS"]
+- !private ["PSo18UITraitEnvironment", "showsNodeCount"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "bounds"]
+- !private ["CSo6UIView", "deinit"]
+- !private ["CSo6UIView", "ignoresSiblingOrder"]
+- !private ["CSo6UIView", "presentScene"]
+- !private ["CSo6UIView", "showsFPS"]
+- !private ["CSo6UIView", "showsNodeCount"]
+- ["CSo16UIViewController", "Bool"]
+- !private ["CSo16UIViewController", "GameScene"]
+- !private ["CSo16UIViewController", "SKView"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "prefersStatusBarHidden"]
+- !private ["CSo16UIViewController", "view"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["VSs6UInt32", "init"]
+- !private ["PSs31UnicodeScalarLiteralConvertible", "characters"]
+- !private ["PSs31UnicodeScalarLiteralConvertible", "stringByTrimmingCharactersInSet"]
+- !private ["PSs19UnsignedIntegerType", "init"]
+- !private ["PSs33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs49_BuiltinExtendedGraphemeClusterLiteralConvertible", "characters"]
+- !private ["PSs49_BuiltinExtendedGraphemeClusterLiteralConvertible", "stringByTrimmingCharactersInSet"]
+- !private ["PSs33_BuiltinIntegerLiteralConvertible", "Distance"]
+- !private ["PSs33_BuiltinIntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["PSs33_BuiltinIntegerLiteralConvertible", "init"]
+- !private ["PSs32_BuiltinStringLiteralConvertible", "characters"]
+- !private ["PSs32_BuiltinStringLiteralConvertible", "stringByTrimmingCharactersInSet"]
+- !private ["PSs37_BuiltinUTF16StringLiteralConvertible", "characters"]
+- !private ["PSs37_BuiltinUTF16StringLiteralConvertible", "stringByTrimmingCharactersInSet"]
+- !private ["PSs39_BuiltinUnicodeScalarLiteralConvertible", "characters"]
+- !private ["PSs39_BuiltinUnicodeScalarLiteralConvertible", "stringByTrimmingCharactersInSet"]
+- !private ["PSs19_CVarArgAlignedType", "init"]
+- !private ["PSs22_CVarArgPassedAsDouble", "init"]
+- !private ["PSs16_CocoaStringType", "characters"]
+- !private ["PSs16_CocoaStringType", "stringByTrimmingCharactersInSet"]
+- !private ["PSs24_ColorLiteralConvertible", "CGFloat"]
+- !private ["PSs24_ColorLiteralConvertible", "NSCharacterSet"]
+- !private ["PSs24_ColorLiteralConvertible", "NSScanner"]
+- !private ["PSs24_ColorLiteralConvertible", "UInt32"]
+- !private ["PSs24_ColorLiteralConvertible", "init"]
+- !private ["PSs28_DisallowMixedSignArithmetic", "init"]
+- !private ["PSs14_Incrementable", "Distance"]
+- !private ["PSs14_Incrementable", "IntegerLiteralType"]
+- !private ["PSs14_Incrementable", "init"]
+- !private ["PSs22_IntegerArithmeticType", "Distance"]
+- !private ["PSs22_IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["PSs22_IntegerArithmeticType", "init"]
+- !private ["PSs12_IntegerType", "Distance"]
+- !private ["PSs12_IntegerType", "IntegerLiteralType"]
+- !private ["PSs12_IntegerType", "init"]
+- !private ["PSs21_ObjectiveCBridgeable", "Distance"]
+- !private ["PSs21_ObjectiveCBridgeable", "IntegerLiteralType"]
+- !private ["PSs21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["PSs21_ObjectiveCBridgeable", "characters"]
+- !private ["PSs21_ObjectiveCBridgeable", "init"]
+- !private ["PSs21_ObjectiveCBridgeable", "stringByTrimmingCharactersInSet"]
+- !private ["VSs26_OptionalNilComparisonType", "deinit"]
+- !private ["PSs22_RandomAccessAmbiguity", "Distance"]
+- !private ["PSs22_RandomAccessAmbiguity", "IntegerLiteralType"]
+- !private ["PSs22_RandomAccessAmbiguity", "init"]
+- !private ["PSs12_Reflectable", "Distance"]
+- !private ["PSs12_Reflectable", "IntegerLiteralType"]
+- !private ["PSs12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["PSs12_Reflectable", "bounds"]
+- !private ["PSs12_Reflectable", "characters"]
+- !private ["PSs12_Reflectable", "ignoresSiblingOrder"]
+- !private ["PSs12_Reflectable", "init"]
+- !private ["PSs12_Reflectable", "presentScene"]
+- !private ["PSs12_Reflectable", "showsFPS"]
+- !private ["PSs12_Reflectable", "showsNodeCount"]
+- !private ["PSs12_Reflectable", "size"]
+- !private ["PSs12_Reflectable", "stringByTrimmingCharactersInSet"]
+- !private ["PSs18_SignedIntegerType", "Distance"]
+- !private ["PSs18_SignedIntegerType", "IntegerLiteralType"]
+- !private ["PSs11_Strideable", "Distance"]
+- !private ["PSs11_Strideable", "IntegerLiteralType"]
+- !private ["PSs11_Strideable", "init"]
+depends-nominal:
+- !private "PSs16AbsoluteValuable"
+- "PSs9AnyObject"
+- !private "PSs22BidirectionalIndexType"
+- !private "PSs21BitwiseOperationsType"
+- !private "Sb"
+- !private "PSs25BooleanLiteralConvertible"
+- !private "PSs11BooleanType"
+- !private "V12CoreGraphics7CGFloat"
+- !private "VSC6CGRect"
+- "PSs11CVarArgType"
+- !private "VSS13CharacterView"
+- !private "PSs14CollectionType"
+- !private "PSs10Comparable"
+- !private "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- !private "Sd"
+- "PSs9Equatable"
+- !private "PSs41ExtendedGraphemeClusterLiteralConvertible"
+- !private "PSs23FloatLiteralConvertible"
+- !private "PSs17FloatingPointType"
+- !private "PSs16ForwardIndexType"
+- !private "C13SpriteKitTest9GameScene"
+- "C13SpriteKitTest18GameViewController"
+- "PSs8Hashable"
+- !private "SQ"
+- !private "VVSS13CharacterView5Index"
+- !private "PSs9Indexable"
+- !private "Si"
+- !private "PSs21IntegerArithmeticType"
+- !private "PSs25IntegerLiteralConvertible"
+- !private "PSs11IntegerType"
+- !private "PSs14MirrorPathType"
+- !private "CSo14NSCharacterSet"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- !private "CSo8NSNumber"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "CSo9NSScanner"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "CSo7NSValue"
+- !private "PSs16OutputStreamType"
+- !private "PSs21RandomAccessIndexType"
+- !private "VSs5Range"
+- !private "PSs30RangeReplaceableCollectionType"
+- !private "PSs16RawRepresentable"
+- !private "CSo12SKEffectNode"
+- !private "CSo6SKNode"
+- !private "CSo7SKScene"
+- !private "OSC16SKSceneScaleMode"
+- !private "CSo6SKView"
+- !private "PSs12SequenceType"
+- !private "PSs17SignedIntegerType"
+- !private "PSs16SignedNumberType"
+- !private "PSs10Streamable"
+- !private "PSs10Strideable"
+- !private "SS"
+- !private "PSs30StringInterpolationConvertible"
+- !private "PSs24StringLiteralConvertible"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "CSo7UIColor"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "VSs6UInt32"
+- !private "PSs31UnicodeScalarLiteralConvertible"
+- !private "PSs19UnsignedIntegerType"
+- !private "PSs33_BuiltinBooleanLiteralConvertible"
+- !private "PSs49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- !private "PSs33_BuiltinIntegerLiteralConvertible"
+- !private "PSs32_BuiltinStringLiteralConvertible"
+- !private "PSs37_BuiltinUTF16StringLiteralConvertible"
+- !private "PSs39_BuiltinUnicodeScalarLiteralConvertible"
+- !private "PSs19_CVarArgAlignedType"
+- !private "PSs22_CVarArgPassedAsDouble"
+- !private "PSs16_CocoaStringType"
+- !private "PSs24_ColorLiteralConvertible"
+- !private "PSs28_DisallowMixedSignArithmetic"
+- !private "PSs14_Incrementable"
+- !private "PSs22_IntegerArithmeticType"
+- !private "PSs12_IntegerType"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "VSs26_OptionalNilComparisonType"
+- !private "PSs22_RandomAccessAmbiguity"
+- !private "PSs12_Reflectable"
+- !private "PSs18_SignedIntegerType"
+- !private "PSs11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SpriteKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphoneos/SocketIOClientSwift.framework/Modules/SocketIOClientSwift.swiftmodule/arm64.swiftmodule"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphoneos/SocketIOClientSwift.framework/Headers/SocketIOClientSwift-Swift.h"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphoneos/SocketIOClientSwift.framework/Headers/Socket.IO-Client-Swift-umbrella.h"
+- "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/DerivedData/SpriteKitTest/Build/Products/Debug-iphoneos/SocketIOClientSwift.framework/Modules/module.modulemap"
+interface-hash: "38f9606a986e50849f8835368bb9277e"

@@ -1,0 +1,14 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "e02812e04aa1eb76e303eebad305e9be"
+build_time: [512411232, 495714000]
+inputs:
+  "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/TWControls/TWControl+Helpers.swift": [506275276, 0]
+  "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/TWControls/TWControl.swift": [506275276, 0]
+  "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/GameViewController.swift": [512408655, 0]
+  "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/TWControls/TWSwitch.swift": [506275276, 0]
+  "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/TWControls/TWControl+NestedTypes.swift": [506275276, 0]
+  "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/AppDelegate.swift": [512111031, 0]
+  "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/TWLayout/TWCollectionNode.swift": [506275276, 0]
+  "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/TWLayout/TWStackNode.swift": [506275276, 0]
+  "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/GameScene.swift": [512411066, 0]
+  "/Users/devesh/Desktop/Swift Apps/SpriteKitTest/SpriteKitTest/TWControls/TWButton.swift": [506275276, 0]
