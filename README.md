@@ -7,6 +7,8 @@ Created at HackUTD16 : http://devpost.com/software/venture-a-vr-and-smartphone-g
 
 This is the ios app component of the project that relies on the unity vr game to be running to be displayed on screen.
 
+Note: Run the game via SpriteKitTest.xworkspace file located in the root
+
 We all love multiplayer games, and in the emerging field of Virtual Reality, multiplayer looks exceptionally promising. Unfortunately, Virtual Reality headsets and the powerful gaming rigs required to run them are becoming increasingly expensive. So we devised an alternative solution that is far cheaper, more accessible, and just as fun as enjoying a multiplayer VR experience.
 
 Venture is terror in a maze. As the VR user, your sole purpose is to make it to the other side in one piece. You will traverse the corridors while dodging monsters and racing time. Meanwhile, as the iOS user, you'll enjoy a laid back perspective in God mode. Here you can see the whole maze from a bird's eye view. Your goal is to help your VR friend finish the maze. To do this you'll need to unleash unspeakable monsters and ghosts into his world to scare him in the right direction! Together you make the perfect team of the age old fieldwork-and-intelligence duo.
